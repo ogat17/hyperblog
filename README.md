@@ -1,2 +1,12 @@
-# hyperblog
-blog para el curso de git en PLATZI
+# Hyperblog :tw-1f1f4: 
+Un blog increible para el[ curso de Git y Github](https://platzi.com/cursos/git-github/ " curso de Git y Github") de [Platzi](https://platzi.com/ "Platzi")
+> El curso de Git y Github de Platzi es lo que me hacÃ­a falta para triplicar mi salario y lanzarme a la industria del tejido de lana sintÃ©tica con Machine Learning
+
+## En este curso vemos de todo
+* Todos los comandos de Git
+* El flujo de trabajo en Github
+* El verdadero amor por las buenas practicas
+* Trucos muy locos del profesor
+* Las personalidades mÃºltiples de Freddy
+
+Y como un amable recordatorio: **Este readme.md es buena practica   [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
